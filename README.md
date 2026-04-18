@@ -1,5 +1,7 @@
 # Loopia Python Library
 
+[![Documentation Status](https://app.readthedocs.org/projects/loopiase-python/badge/?version=latest)](https://loopiase-python.readthedocs.io/en/latest/)
+
 Python client library for the [Loopia](https://www.loopia.se) domain registrar API.
 
 ## Installation
