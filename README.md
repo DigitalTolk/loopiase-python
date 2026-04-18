@@ -1,6 +1,6 @@
-# loopia-python
+# Loopia Python Library
 
-Python client library for the [Loopia](https://www.loopia.com) domain registrar API.
+Python client library for the [Loopia](https://www.loopia.se) domain registrar API.
 
 ## Installation
 
