@@ -7,6 +7,10 @@ on:
   pull_request:
   workflow_call:
 
+permissions:
+  contents: read
+  packages: read
+
 jobs:
   test:
     runs-on: ubuntu-latest
