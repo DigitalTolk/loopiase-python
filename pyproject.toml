@@ -21,7 +21,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/lifeofguenter/loopia-python"
+Homepage = "https://github.com/DigitalTolk/loopia-python"
 
 [tool.setuptools.packages.find]
 where = ["src"]
