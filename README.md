@@ -1,6 +1,7 @@
 # Loopia Python Library
 
 [![Documentation Status](https://app.readthedocs.org/projects/loopiase-python/badge/?version=latest)](https://loopiase-python.readthedocs.io/en/latest/)
+[![Coverage Status](https://coveralls.io/repos/github/DigitalTolk/loopiase-python/badge.svg?branch=feature/add-github-actions)](https://coveralls.io/github/DigitalTolk/loopiase-python?branch=feature/add-github-actions)
 
 Python client library for the [Loopia](https://www.loopia.se) domain registrar API.
 
